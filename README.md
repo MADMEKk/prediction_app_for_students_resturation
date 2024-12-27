@@ -3,7 +3,12 @@
 # Meal Swipe Prediction System
 
 ## Description
+
 This project is a complete pipeline for predicting the number of meal swipes in a dining facility based on the meal type, meal name, and day of the week. It includes dataset generation, storage, model training, and a Flask-based API for making predictions.
+
+## Hackathon Context:
+
+We developed this project as part of a hackathon challenge, completing it within 8 hours as a team of four participants. Our goal was to create a functional and efficient solution in a limited timeframe.
 
 ### Features:
 1. **Data Generation and Storage**:
